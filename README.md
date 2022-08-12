@@ -1,4 +1,4 @@
-<b> Hey, what's up?! </b>
+<b><i> Hey, what's up?! :wave: </i></b>
 
 I'm Cameron, a Data Analyst & Future Data Scientist. Currently, working on my Masters in Business Analytcis at the University of Buffalo. 
 
@@ -12,7 +12,6 @@ I'm Cameron, a Data Analyst & Future Data Scientist. Currently, working on my Ma
 💻 Data Analysis: Cleaning, Preprocessing, Feature Engineering, Web Scraping, Visualizations, Excel <br>
 🤖 Machine Learning: Classification, Linear Regression <br>
 📚 Libraries: NumPy, Matplotlib, Seaborn, pandas, Scikit-learn <br>
-
 
 <!---
 Cameron-M-Bailey/Cameron-M-Bailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

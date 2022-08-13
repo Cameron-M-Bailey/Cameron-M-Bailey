@@ -3,7 +3,7 @@
 I'm Cameron, a Data Analyst & Future Data Scientist. Currently, working on my Masters in Business Analytcis at the University of Buffalo. 
 
 👀 I’m interested in analyzing and building ML models for arts & culture data.<br>
-:musical_note: I'm currently working on an analysis of Spotify music trends and Beyoncé's Renassance album.<br>
+:musical_note: I'm currently working on an analysis of Spotify music trends and Beyoncé's Renaissance album.<br>
 🌱 I’m currently learning Advanced SQL Querying. <br>
 :zap: Fun Fact: I've been bodybuilding for 3+ years. <br>
 

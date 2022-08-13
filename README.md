@@ -4,14 +4,14 @@ I'm Cameron, a Data Analyst & Future Data Scientist. Currently, working on my Ma
 
 👀 I’m interested in analyzing and building ML models for arts & culture data.<br>
 :musical_note: I'm currently working on an analysis of Spotify music trends and Beyoncé's Renaissance album.<br>
-🌱 I’m currently learning Advanced SQL Querying. <br>
+🌱 I’m currently learning Intermediate Machine Learning. <br>
 :zap: Fun Fact: I've been bodybuilding for 3+ years. <br>
 
 <b>✨Skills✨</b><br>
-- Languages: Python, SQL (Postgres, MySQL) <br>
-- Data Analysis: Cleaning, Preprocessing, Feature Engineering, Web Scraping, Visualizations, Excel <br>
-- Machine Learning: Classification, Linear Regression <br>
-- Libraries: NumPy, Matplotlib, Seaborn, pandas, Scikit-learn <br>
+- Languages: Python, SQL (Postgres, MySQL)
+- Data Analysis: Cleaning, Preprocessing, Feature Engineering, Web Scraping, Visualizations, MS Excel
+- Machine Learning: Classification, Linear Regression
+- Libraries: NumPy, Matplotlib, Seaborn, pandas, Scikit-learn
 
 <!---
 Cameron-M-Bailey/Cameron-M-Bailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

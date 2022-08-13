@@ -8,10 +8,10 @@ I'm Cameron, a Data Analyst & Future Data Scientist. Currently, working on my Ma
 :zap: Fun Fact: I've been bodybuilding for 3+ years. <br>
 
 <b>✨Skills✨</b><br>
-Languages: Python, SQL (Postgres, MySQL) <br>
-Data Analysis: Cleaning, Preprocessing, Feature Engineering, Web Scraping, Visualizations, Excel <br>
-Machine Learning: Classification, Linear Regression <br>
-Libraries: NumPy, Matplotlib, Seaborn, pandas, Scikit-learn <br>
+- Languages: Python, SQL (Postgres, MySQL) <br>
+- Data Analysis: Cleaning, Preprocessing, Feature Engineering, Web Scraping, Visualizations, Excel <br>
+- Machine Learning: Classification, Linear Regression <br>
+- Libraries: NumPy, Matplotlib, Seaborn, pandas, Scikit-learn <br>
 
 <!---
 Cameron-M-Bailey/Cameron-M-Bailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

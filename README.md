@@ -9,7 +9,7 @@ I'm Cameron, a Data Analyst & Future Data Scientist. Currently, working on my Ma
 
 <b>✨Skills✨</b><br>
 - Languages: Python, SQL (Postgres, MySQL)
-- Data Analysis: Cleaning, Preprocessing, Feature Engineering, Web Scraping, Visualizations, MS Excel
+- Data Analysis: Cleaning, Preprocessing, Feature Engineering, Web Scraping, Visualizations, Microsoft Excel
 - Machine Learning: Classification, Linear Regression
 - Libraries: NumPy, Matplotlib, Seaborn, pandas, Scikit-learn
 

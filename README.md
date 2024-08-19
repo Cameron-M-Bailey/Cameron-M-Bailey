@@ -1,11 +1,11 @@
 <b><i> Hey, what's up?! :wave: </i></b>
 
-I'm Cameron, a Data Analyst & Future Data Scientist. Currently, working on my Masters in Business Analytcis at the University of Buffalo. 
+I'm Cameron, a Senior Business Analyst and aspiring Data Scientist.
 
-👀 I’m interested in analyzing and building ML models for arts & culture data.<br>
+👀 I’m interested in analyzing and building ML models for arts, entertainment, and culture data.<br>
 :video_game: I'm currently working on an analysis and recommendation engine for competitive Pokemon players.<br>
-🌱 I’m currently reading The Elements of Statistical Learning. <br>
-:zap: Fun Fact: I've been bodybuilding for 3+ years. <br>
+🌱 I’m currently learning C# and how to draw pixel art. <br>
+:zap: Fun Fact: I'm working becomign fluent in French and Japanese. <br>
 
 <b>✨Skills✨</b><br>
 - <b>Programming:</b> Python (NumPy, Matplotlib, Seaborn, pandas, Scikit-learn), SQL (PostgreSQL, MySQL), VBA, Web Scraping, APIs

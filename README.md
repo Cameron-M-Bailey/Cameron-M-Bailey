@@ -8,7 +8,7 @@ I'm Cameron, a Senior Business Analyst and aspiring Data Scientist.
 :zap: Fun Fact: I'm working becomign fluent in French and Japanese. <br>
 
 <b>✨Skills✨</b><br>
-- <b>Programming:</b> Python (NumPy, Matplotlib, Seaborn, pandas, Scikit-learn), SQL (PostgreSQL, MySQL), VBA, Web Scraping, APIs
+- <b>Programming:</b> Python (NumPy, Matplotlib, Seaborn, pandas, Scikit-learn), SQL (PostgreSQL, MySQL), VBA, Web Scraping
 
 - <b>Data Analysis & Science:</b> Machine Learning, Statistics, Data Cleaning, Data Manipulation, Feature Engineering, Data Mining, Dimensionality Reduction, Microsoft Excel (Business & Financial Modeling, Pivot Tables, VLOOKUP), Tableau, Power BI, Social Network Analytics, NodeXL
 
